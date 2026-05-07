@@ -1,0 +1,41 @@
+card_name,lead_time_dias,status
+Daily,,Não concluído
+Criar CORS para Front-End,,Não concluído
+Validação de Dados,,Não concluído
+Cadastro de Imagem,,Não concluído
+Segurança da Aplicação,,Não concluído
+Integração da Tela de Login com o Back-End,,Não concluído
+Integração da Tela de Cadastro com o Back-End,,Não concluído
+Integração da Tela de Anotações com o Back-End,,Não concluído
+Integrações finais e ajustes com o back-end,,Não concluído
+Analise de dados - Report Services,,Não concluído
+Teste cti,,Não concluído
+Tela de Notas - Listar Notas - JavaScript + React,,Não concluído
+Tela de Notas - Editar Notas - JavaScript + React,,Não concluído
+Endpoints - Notas,,Não concluído
+Criar estrutura do projeto,0.0,Concluído
+Endpoints - Cadastro de Usuário,-1.0,Concluído
+token,-1.0,Concluído
+Publicação da API,-1.0,Concluído
+hash,-1.0,Concluído
+Endpoints - Login,-1.0,Concluído
+Endpoints - Tags (Categoria),-1.0,Concluído
+Tela de Login - HTML + CSS,-1.0,Concluído
+Tela de Cadastro de Usuário - HTML + CSS,-1.0,Concluído
+Tela de Notas - HTML + CSS,-1.0,Concluído
+Tela de Cadastro de Usuário -  JavaScript + React,-1.0,Concluído
+Tela de Login - JavaScript + React,-1.0,Concluído
+Tela de Notas - Deletar Notas - JavaScript + React,-1.0,Concluído
+Tela de Notas - Cadastrar Notas - JavaScript + React,-1.0,Concluído
+Criação de tabelas,-3.0,Concluído
+Modelagem Física,-3.0,Concluído
+Modelagem Lógica,-1.0,Concluído
+Deploy,-1.0,Concluído
+Modelagem Conceitual,-1.0,Concluído
+Segurança,-1.0,Concluído
+Segurança²,0.0,Concluído
+Tabela de Notas,-1.0,Concluído
+Criptografia,-1.0,Concluído
+Index,0.0,Concluído
+Backup,-1.0,Concluído
+Integração com back-end,-1.0,Concluído
