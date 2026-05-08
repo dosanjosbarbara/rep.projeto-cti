@@ -10,10 +10,11 @@
 ---
 
 ## Sobre o Projeto
-
+<p>
 Este projeto tem como objetivo realizar a análise do planejamento e execução de projetos desenvolvidos utilizando a metodologia ágil SCRUM, com gerenciamento realizado pela plataforma Trello.
+A aplicação coleta dados dos quadros do Trello por meio da API ou arquivos CSV, processa essas informações e gera dashboards e relatórios analíticos para identificação de gargalos, produtividade da equipe e oportunidades de otimização.     
+</p>
 
-A aplicação coleta dados dos quadros do Trello por meio da API ou arquivos CSV, processa essas informações e gera dashboards e relatórios analíticos para identificação de gargalos, produtividade da equipe e oportunidades de otimização.
 ---
 
 ## Objetivos
