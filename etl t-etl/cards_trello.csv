@@ -1,0 +1,117 @@
+id;agent;badges;checkItemStates;closed;dueComplete;dateLastActivity;desc;descData;due;dueReminder;email;idBoard;idChecklists;idList;idMembers;idMembersVoted;idShort;idAttachmentCover;labels;idLabels;manualCoverAttachment;name;nodeId;pinned;pos;shortLink;shortUrl;start;subscribed;url;cover;isTemplate;cardRole;mirrorSourceId
+69fe604e330b4b2285f67ef0;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 22:14:52;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a3;[];[];1;;[];[];False;ticket:;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe604e330b4b2285f67ef0;False;140737488355328;7KLUeUYH;https://trello.com/c/7KLUeUYH;;False;https://trello.com/c/7KLUeUYH/1-ticket;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6cd6c41470294cca23da;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 22:14:51;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a3;[];[];10;;[];[];False;Consultor: Janaina;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6cd6c41470294cca23da;False;140737488388096;iZlWEDjU;https://trello.com/c/iZlWEDjU;;False;https://trello.com/c/iZlWEDjU/10-consultor-janaina;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6cdc11c6cfe5147b16e7;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 21:59:16;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a3;[];[];11;;[];[];False;Documento de abertura;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6cdc11c6cfe5147b16e7;False;140737488404480;dod6gzYJ;https://trello.com/c/dod6gzYJ;;False;https://trello.com/c/dod6gzYJ/11-documento-de-abertura;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6ccf4730a25c46d543de;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 22:04:11;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a3;[];[];9;;[];[];False;Analista: Tiago Madrid;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6ccf4730a25c46d543de;False;140737488412672;QiYzH1gU;https://trello.com/c/QiYzH1gU;;False;https://trello.com/c/QiYzH1gU/9-analista-tiago-madrid;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d1c9fe059f11eebfc4b;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 22:04:12;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a3;[];[];12;;[];[];False;Documento de conclusão;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d1c9fe059f11eebfc4b;False;140737488420864;uhQd67kj;https://trello.com/c/uhQd67kj;;False;https://trello.com/c/uhQd67kj/12-documento-de-conclus%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d29456b0b7b0c6f480d;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-03T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-02-27T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:12:26;;{'emoji': {}};03/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];13;;[];[];False;Alinhamento;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d29456b0b7b0c6f480d;False;140737488355328;1QvpeGBO;https://trello.com/c/1QvpeGBO;27/02/2026 11:00:00;False;https://trello.com/c/1QvpeGBO/13-alinhamento;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d3224ca88f3975ed982;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-04T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-03T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:12:54;;{'emoji': {}};04/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];14;;[];[];False;Kick-Off;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d3224ca88f3975ed982;False;140737488371712;Rq4SFnuS;https://trello.com/c/Rq4SFnuS;03/03/2026 11:00:00;False;https://trello.com/c/Rq4SFnuS/14-kick-off;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d393557e50914e4616d;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-05T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:13:10;;{'emoji': {}};05/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];15;;[];[];False;Configuração;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d393557e50914e4616d;False;140737488388096;EWCNHhiL;https://trello.com/c/EWCNHhiL;;False;https://trello.com/c/EWCNHhiL/15-configura%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d40e92539d13ec8a617;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-05T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:16:22;;{'emoji': {}};05/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];16;;[];[];False;Double Check;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d40e92539d13ec8a617;False;140737488404480;SuUwhmWG;https://trello.com/c/SuUwhmWG;;False;https://trello.com/c/SuUwhmWG/16-double-check;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d4a88f0dbc823477d2f;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-06T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-05T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:16:38;;{'emoji': {}};06/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];17;;[];[];False;Encaminhar dispositivo;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d4a88f0dbc823477d2f;False;140737488420864;BPnngD7W;https://trello.com/c/BPnngD7W;05/03/2026 11:00:00;False;https://trello.com/c/BPnngD7W/17-encaminhar-dispositivo;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d50c22e5a2e50603bdc;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-10T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-09T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:16:55;;{'emoji': {}};10/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];18;;[];[];False;Implementação;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d50c22e5a2e50603bdc;False;140737488437248;HQbfkyw3;https://trello.com/c/HQbfkyw3;09/03/2026 11:00:00;False;https://trello.com/c/HQbfkyw3/18-implementa%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6d5774de3f8f96a9e968;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': '2026-03-13T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-11T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:17:11;;{'emoji': {}};13/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a4;[];[];19;;[];[];False;Reunião de finalização;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6d5774de3f8f96a9e968;False;140737488453632;5uUInVLi;https://trello.com/c/5uUInVLi;11/03/2026 11:00:00;False;https://trello.com/c/5uUInVLi/19-reuni%C3%A3o-de-finaliza%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+6a025c7d5d042eb939bedc42;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': False, 'due': None, 'dueComplete': False, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;False;11/05/2026 22:47:25;;{'emoji': {}};;;;69fd20465fb2b7d1fb85e050;[];69fd20465fb2b7d1fb85e0a5;[];[];20;;[];[];False;Teste adicao de card - 11-05;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/6a025c7d5d042eb939bedc42;False;140737488355328;J2GnqWvA;https://trello.com/c/J2GnqWvA;;False;https://trello.com/c/J2GnqWvA/20-teste-adicao-de-card-11-05;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe62d4fb82d8940f404315;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-03T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-02T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:01:18;"_**Atualização 02/03/2026**_
+
+Analista enviou um e-mail para agendar a reunião de abertura amanhã. Aguardando retorno do cliente
+
+‌
+
+_**Atualização 03/03/2026**_
+
+Cliente respondeu o e-mail e agendou a reunião para hoje às 15h. A reunião foi realizada conforme agendada e o analista irá criar o documento de abertura";{'emoji': {}};03/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];2;;[];[];False;Alinhamento;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe62d4fb82d8940f404315;False;140737488355328;d0F15DVu;https://trello.com/c/d0F15DVu;02/03/2026 11:00:00;False;https://trello.com/c/d0F15DVu/2-alinhamento;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6aecef9f792443cfd856;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-04T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-03T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:01:19;"_**Atualização 03/03/2026**_
+
+Documento criado pelo analista, validado e enviado para o cliente validar
+
+‌
+
+_**Atualização 04/03/2026**_
+
+Documento validado pelo cliente, analista irá seguir com as configurações";{'emoji': {}};04/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];3;;[];[];False;Kick-Off;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6aecef9f792443cfd856;False;140737488371712;ZKNsTeVm;https://trello.com/c/ZKNsTeVm;03/03/2026 11:00:00;False;https://trello.com/c/ZKNsTeVm/3-kick-off;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6b4e9e8f4c485ccb41c3;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-04T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-03T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:07:27;"_**Atualização 03/03/2026**_
+
+Analista jacintho realizou a criação do ambiente na controladora
+
+‌
+
+_**Atualização 04/03/2026**_
+
+Analista Madrid realizou as configurações assim que o documento foi validado. Configurações referentes ao fortigate e aos APs na controladora";{'emoji': {}};04/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];4;;[];[];False;Configuração;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6b4e9e8f4c485ccb41c3;False;140737488388096;vg7brHFh;https://trello.com/c/vg7brHFh;03/03/2026 11:00:00;False;https://trello.com/c/vg7brHFh/4-configura%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6b55f49c10c984c8386f;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-04T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': None, 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:07:28;"_**Atualização 04/03/2026**_
+
+Double check realizado pelo analista Lucas J. Sem correções para serem realizadas";{'emoji': {}};04/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];5;;[];[];False;Double Check;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6b55f49c10c984c8386f;False;140737488404480;l51RzKIn;https://trello.com/c/l51RzKIn;;False;https://trello.com/c/l51RzKIn/5-double-check;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6b5d26e857bc43ab561a;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-09T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-05T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:07:29;"_**Atualização 04/03/2026**_
+
+No momento em que os dispositivos foram entregues foi identificado que o equipamento entregue foi um modelo diferente do solicitado. Correções necessárias serão realizadas
+
+‌
+
+_**Atualização 05/03/2026**_
+
+Novo equipamento foi solicitado configurações serão realizadas amanhã.
+
+‌
+
+_**Atualização 06/03/2026**_
+
+Configurações realizadas e dispositivo será entregue dia 09/03 pela consultora
+
+‌
+
+_**Atualização 09/03/2026**_
+
+Dispositivos entregues, implementação será alinhada";{'emoji': {}};09/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];6;;[];[];False;Encaminhar dispositivo;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6b5d26e857bc43ab561a;False;140737488420864;IVwJ3ZjJ;https://trello.com/c/IVwJ3ZjJ;05/03/2026 11:00:00;False;https://trello.com/c/IVwJ3ZjJ/6-encaminhar-dispositivo;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6c66574105018c825011;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-12T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-09T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:07:31;"_**Atualização 09/03/2026**_
+
+Instalação será alinhada com o NOC. Logo aguardando os mesmos alinharem a data
+
+‌
+
+_**Atualização 10/03/2026**_
+
+Instalação sendo alinhada para dia 17/03, aguardando retorno do cliente.
+
+‌
+
+Cliente entrou em contato informando que iria realizar a instalação dos APs na data de hoje devido a necessidade de utilização dos mesmos.
+
+‌
+
+_**Atualização 11/03/2026**_
+
+Cliente entrou em contato e foi atendido pelo analista Lucas Jacintho e informou que os Aps foram fixados e pediu um resumo sobre a controladora e suas funcionalidades.
+
+‌
+
+_**Atualização 12/03/2026**_
+
+Cliente validou que os dispositivos estão funcionando conforme o esperado logo documento de finalização será criado.";{'emoji': {}};12/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];7;;[];[];False;Implementação;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6c66574105018c825011;False;140737488437248;klbkPNzK;https://trello.com/c/klbkPNzK;09/03/2026 11:00:00;False;https://trello.com/c/klbkPNzK/7-implementa%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;
+69fe6c6f4b353905f3f9aa69;{'name': None, 'conversationId': None};{'attachments': 0, 'fogbugz': '', 'checkItems': 0, 'checkItemsChecked': 0, 'checkItemsEarliestDue': None, 'comments': 0, 'description': True, 'due': '2026-03-26T17:47:00.000Z', 'dueComplete': True, 'lastUpdatedByAi': False, 'start': '2026-03-12T11:00:00.000Z', 'externalSource': None, 'attachmentsByType': {'trello': {'board': 0, 'card': 0}}, 'location': False, 'votes': 0, 'maliciousAttachments': 0, 'viewingMemberVoted': False, 'subscribed': False};[];False;True;08/05/2026 23:07:35;"_**Atualização 12/03/2026**_
+
+Documento criado e ticket encaminhado para o consultor realizar o agendamento da reunião de finalização
+
+‌
+
+_**Atualização 16/03/2026**_
+
+Reunião agendada para dia 18/03 às 14h
+
+‌
+
+_**Atualização 18/03/2026**_
+
+Reunião realizada e documento enviado para o cliente validar. Aguardando validação
+
+‌
+
+_**Atualização 24/03/2026**_
+
+Aguardando validação do documento
+
+‌
+
+_**Atualização 26/03/2026**_
+
+Documento validado";{'emoji': {}};26/03/2026 17:47:00;1440.0;;69fd20465fb2b7d1fb85e050;[];69fd2934b4dc3d3cc3739318;[];[];8;;[];[];False;Reunião de finalização;ari:cloud:trello::card/workspace/69b88b222265d8836cfbaa99/69fe6c6f4b353905f3f9aa69;False;140737488453632;YSywQGYd;https://trello.com/c/YSywQGYd;12/03/2026 11:00:00;False;https://trello.com/c/YSywQGYd/8-reuni%C3%A3o-de-finaliza%C3%A7%C3%A3o;{'idAttachment': None, 'color': None, 'idUploadedBackground': None, 'size': 'normal', 'brightness': 'dark', 'yPosition': 0.5, 'idPlugin': None};False;;

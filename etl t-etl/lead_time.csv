@@ -1,0 +1,21 @@
+card_id;card_name;data_criacao;data_ultima_atividade;data_conclusao;lead_time_dias;status
+69fe604e330b4b2285f67ef0;ticket:;08/05/2026 22:14:39;11/05/2026 22:14:52;;;Não concluído
+69fe6cd6c41470294cca23da;Consultor: Janaina;08/05/2026 23:08:06;11/05/2026 22:14:51;;;Não concluído
+69fe6cdc11c6cfe5147b16e7;Documento de abertura;08/05/2026 23:08:12;11/05/2026 21:59:16;;;Não concluído
+69fe6ccf4730a25c46d543de;Analista: Tiago Madrid;08/05/2026 23:07:59;11/05/2026 22:04:11;11/05/2026 21:37:03;2.0;Concluído
+69fe6d1c9fe059f11eebfc4b;Documento de conclusão;08/05/2026 23:09:16;11/05/2026 22:04:12;;;Não concluído
+69fe6d29456b0b7b0c6f480d;Alinhamento;08/05/2026 23:09:29;08/05/2026 23:12:26;;;Não concluído
+69fe6d3224ca88f3975ed982;Kick-Off;08/05/2026 23:09:38;08/05/2026 23:12:54;;;Não concluído
+69fe6d393557e50914e4616d;Configuração;08/05/2026 23:09:45;08/05/2026 23:13:10;;;Não concluído
+69fe6d40e92539d13ec8a617;Double Check;08/05/2026 23:09:52;08/05/2026 23:16:22;;;Não concluído
+69fe6d4a88f0dbc823477d2f;Encaminhar dispositivo;08/05/2026 23:10:02;08/05/2026 23:16:38;;;Não concluído
+69fe6d50c22e5a2e50603bdc;Implementação;08/05/2026 23:10:08;08/05/2026 23:16:55;;;Não concluído
+69fe6d5774de3f8f96a9e968;Reunião de finalização;08/05/2026 23:10:15;08/05/2026 23:17:11;;;Não concluído
+6a025c7d5d042eb939bedc42;Teste adicao de card - 11-05;11/05/2026 22:47:25;11/05/2026 22:47:25;;;Não concluído
+69fe62d4fb82d8940f404315;Alinhamento;08/05/2026 22:25:24;08/05/2026 23:01:18;08/05/2026 22:59:39;0.0;Concluído
+69fe6aecef9f792443cfd856;Kick-Off;08/05/2026 22:59:56;08/05/2026 23:01:19;;;Não concluído
+69fe6b4e9e8f4c485ccb41c3;Configuração;08/05/2026 23:01:34;08/05/2026 23:07:27;;;Não concluído
+69fe6b55f49c10c984c8386f;Double Check;08/05/2026 23:01:41;08/05/2026 23:07:28;;;Não concluído
+69fe6b5d26e857bc43ab561a;Encaminhar dispositivo;08/05/2026 23:01:49;08/05/2026 23:07:29;;;Não concluído
+69fe6c66574105018c825011;Implementação;08/05/2026 23:06:14;08/05/2026 23:07:31;;;Não concluído
+69fe6c6f4b353905f3f9aa69;Reunião de finalização;08/05/2026 23:06:23;08/05/2026 23:07:35;;;Não concluído
